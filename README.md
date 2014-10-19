@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Test repository created for the DS Tools course project.
+Test repository created for the DS Toolbox course project.
